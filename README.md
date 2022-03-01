@@ -2,10 +2,10 @@
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
-I am persuing my bachelors degree in computer science 
+I am persuing my bachelors degree in computer science at thapar university.
 
-- 👀 I’m interested in python ml\ai
-- 🌱 I’m currently learning python ai
+I’m interested in python ml\ai
+I’m currently learning python ai
 
 **languages and tools:**  
 
@@ -15,7 +15,7 @@ I am persuing my bachelors degree in computer science
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png"></code>
 <code><img height="20" src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png"></code>
 
-- 📫 How to reach me email me at shivombansal21@outlook.com
+you can reach me at [email](mailto:shivombansal21@outlook.com)
 
 
 <!---
