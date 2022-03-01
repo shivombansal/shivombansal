@@ -7,12 +7,13 @@ I am persuing my bachelors degree in computer science
 - 👀 I’m interested in python ml\ai
 - 🌱 I’m currently learning python ai
 
-languages and tools:-
+**languages and tools:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png"></code>
-
+<code><img height="20" src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png"></code>
 
 - 📫 How to reach me email me at shivombansal21@outlook.com
 
