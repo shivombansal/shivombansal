@@ -15,7 +15,6 @@ I’m currently learning python ai
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png"></code>
 <code><img height="40" src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png"></code>
 
-you can reach me at [email](mailto:shivombansal21@outlook.com)
 
 💼 any freelance work? do reach, [email](mailto:shivombansal21@outlook.com) :)
 
