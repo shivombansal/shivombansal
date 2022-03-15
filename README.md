@@ -18,6 +18,7 @@ I’m currently learning python ai
 you can reach me at [email](mailto:shivombansal21@outlook.com)
 
 💼 any freelance work? do reach, [email](mailto:shivombansal21@outlook.com) :)
+
 💬 ask me about anything, i am happy to help;
 
 <!---
