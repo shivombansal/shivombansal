@@ -1,6 +1,6 @@
-hi, i'm Shivom Bansal, a passionate self-taught python developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm Shivom Bansal, a passionate self-taught python developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 I am persuing my bachelors degree in computer science at thapar university.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -17,6 +17,8 @@ I’m currently learning python ai
 
 you can reach me at [email](mailto:shivombansal21@outlook.com)
 
+💼 any freelance work? do reach, [email](mailto:shivombansal21@outlook.com) :)
+💬 ask me about anything, i am happy to help;
 
 <!---
 shivombansal/shivombansal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
