@@ -15,7 +15,7 @@ I’m currently learning and developing Generative AI.
 <code><img height="40" src="https://w7.pngwing.com/pngs/159/366/png-transparent-django-python-computer-icons-logo-python-text-label-rectangle-thumbnail.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1200px-NumPy_logo_2020.svg.png"></code>
 <code><img height="40" src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png"></code>
-<code><img height="40" src="[https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png](https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg)"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"></code>
 
 
 💼 any freelance work? do reach, [email](mailto:shivombansal21@outlook.com) :)
