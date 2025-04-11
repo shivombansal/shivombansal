@@ -19,6 +19,7 @@ I’m currently learning and developing Generative AI.
 <code><img height="40" src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png"></code>
 <code><img height="40" src="https://allvectorlogo.com/img/2017/07/openai-logo.png"></code>
 <code><img height="40" src="https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png"></code>
+<code><img height="40" src="[https://miro.medium.com/v2/resize:fit:691/1*VSQ0XEywxSgZBwW05GsZtw.png](https://w7.pngwing.com/pngs/807/1006/png-transparent-power-bi-business-intelligence-power-pivot-microsoft-dynamics-microsoft-text-logo-information-technology-thumbnail.png)"></code>
 
 
 💼 any freelance work? do reach, [email](mailto:shivombansal21@outlook.com) :)
