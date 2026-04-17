@@ -13,8 +13,8 @@ I’m currently learning and developing Agentic AI Solutions.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"></code>
-
-<code><img height="40" src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png"></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/6844498?s=280&v=4"></code>
+<code><img height="40" src="[https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png](https://miro.medium.com/v2/1*44fD_VXcqw2kDWublQLONw.jpeg)"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"></code>
 <code><img height="40" src="https://w7.pngwing.com/pngs/571/118/png-transparent-keras-logo-thumbnail.png"></code>
 <code><img height="40" src="https://allvectorlogo.com/img/2017/07/openai-logo.png"></code>
