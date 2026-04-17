@@ -12,7 +12,7 @@ I’m currently learning and developing Agentic AI Solutions.
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png"></code>
+<code><img height="40" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-NEICv1aGTvDRncdvM_fXoah5SNWx4pXAvg&s)"></code>
 <code><img height="40" src="https://avatars.githubusercontent.com/u/6844498?s=280&v=4"></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDQR7E3_PqBpKm7PU44wyPaVqCrEsGFWEKpw&s"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"></code>
