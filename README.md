@@ -4,9 +4,9 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 I have a bachelors degree in computer science from thapar university.
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-I’m working as an AI Developer.
+I’m working as an AI Engineer.
 
-I’m currently learning and developing Generative AI.
+I’m currently learning and developing Agentic AI Solutions.
 
 **languages and tools:**  
 
